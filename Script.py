@@ -246,7 +246,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>
+<b>😶‍🌫 Mods Channel: @Dashing_Mods</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
