@@ -89,7 +89,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/dashing_movie_download_group')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/dashing_updates')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/dashing_movie_updates')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'dashh_board') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/prince_jha_04')
 
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
